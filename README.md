@@ -1,2 +1,2 @@
-# Super projec about Pul Requests
+# Super project about Pull Requests
 
